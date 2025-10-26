@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "A systematic red teaming framework can identify critical biosecurity vulnerabilities in DNA synthesis screening processes that are not detected through conventional security audits."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]
