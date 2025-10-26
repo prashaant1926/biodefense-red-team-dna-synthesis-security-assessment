@@ -1,5 +1,8 @@
+
+
 This research aims to develop a comprehensive security assessment tool specifically designed to identify vulnerabilities in DNA synthesis companies' screening protocols and biosecurity measures. The tool will simulate various adversarial scenarios to test how effectively companies can detect and prevent the synthesis of potentially dangerous sequences.
 
 The framework will incorporate multiple layers of testing, including order placement attempts with obfuscated sequences of concern, evaluation of customer verification processes, and assessment of bioinformatics screening protocols. The goal is to identify security gaps before malicious actors can exploit them, while maintaining ethical boundaries and regulatory compliance.
 
 The research will also explore the development of standardized metrics for measuring biosecurity effectiveness and establish best practices for responsible security testing in the synthetic biology industry.
+
